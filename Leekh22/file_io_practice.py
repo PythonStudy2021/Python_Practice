@@ -10,3 +10,4 @@ for i in range(1,11):
     if not line:break
     print(line)
 f2.close
+#practice
